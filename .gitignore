@@ -2,7 +2,6 @@ venv
 app2.py
 visualizations.md
 app.py
-Dockerfile
 prometheus.yml
 requirements.txt
 README.md
